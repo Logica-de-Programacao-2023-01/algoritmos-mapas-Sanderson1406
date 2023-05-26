@@ -18,5 +18,4 @@ func main() {
 	s := "Eu fui com lucas, mas eu tambem fui com pedro, mas é mentira"
 	r := occo(s)
 	fmt.Println(r)
-
 }
